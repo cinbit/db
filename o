@@ -1,5 +1,5 @@
 db@
-{.logo-container,.left,.mode-selector.hint--left,.result-address.mt-15,.top-option-text,.button.is-normal.is-light.hint--top,.tabs-super-container,.filter-type.is-flex,.live-external-link}
+{.logo-container,.left,.mode-selector.hint--left,.result-address.mt-15,.top-option:[0],.button.is-normal.is-light.hint--top,.tabs-super-container,.filter-type.is-flex,.live-external-link}
 dm@
 {CUU:0f8g-cpkf,USY:apqz-ebmy}
 de@
